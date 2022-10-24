@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Biscoito da Sorte",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -9,12 +9,12 @@
     },
     {
       "src": "biscoito.ico",
-      "type": "image/png",
+      "type": "image/x-ico",
       "sizes": "192x192"
     },
     {
       "src": "biscoito.ico",
-      "type": "image/png",
+      "type": "image/x-ico",
       "sizes": "512x512"
     }
   ],
