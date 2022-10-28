@@ -6,7 +6,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+- JavaScript
 - [Node e NPM](https://nodejs.org/)
 - [ReactJS](https://reactjs.org/)
 - [Vercel](https://biscoito-da-sorte-woad.vercel.app/)
